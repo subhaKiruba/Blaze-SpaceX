@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="runners.Runner"/>
+      <class name="runners.RunnerAPI"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
